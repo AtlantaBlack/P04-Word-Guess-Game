@@ -1,5 +1,5 @@
 # Word Guessing Game
 
-Word Guessing game built with Javascript
+A word guessing game built using Javascript
 
-https://atlantablack.github.io/P04-Word-Guess-Game/
+https://atlantablack.github.io/Word-Guess-Game/
